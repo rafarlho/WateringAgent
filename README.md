@@ -35,6 +35,8 @@ Build an autonomous system that:
 
 Everything is wired on a breadboard, with the sensors and relay powered directly from the Pico W.
 
+![alt text](https://raw.githubusercontent.com/rafarlho/WateringAgent/refs/heads/main/layout.png "Title")
+
 ---
 
 ## Implementation
